@@ -1,0 +1,12 @@
+<svg id="btn-more" xmlns="http://www.w3.org/2000/svg" width="181" height="58" viewBox="0 0 181 58">
+  <g id="Group_9" data-name="Group 9" transform="translate(-980 -1482)">
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(983 1487)" fill="none" stroke="#e7d2fe" stroke-width="1">
+      <path d="M12,0H178a0,0,0,0,1,0,0V41a12,12,0,0,1-12,12H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" stroke="none"/>
+      <path d="M12,.5H177a.5.5,0,0,1,.5.5V41A11.5,11.5,0,0,1,166,52.5H1A.5.5,0,0,1,.5,52V12A11.5,11.5,0,0,1,12,.5Z" fill="none"/>
+    </g>
+  </g>
+  <g id="Rectangle_5" data-name="Rectangle 5" fill="#1c1c1c" stroke="#e7d2fe" stroke-width="1">
+    <path d="M12,0H178a0,0,0,0,1,0,0V41a12,12,0,0,1-12,12H0a0,0,0,0,1,0,0V12A12,12,0,0,1,12,0Z" stroke="none"/>
+    <path d="M12,.5H177a.5.5,0,0,1,.5.5V41A11.5,11.5,0,0,1,166,52.5H1A.5.5,0,0,1,.5,52V12A11.5,11.5,0,0,1,12,.5Z" fill="none"/>
+  </g>
+</svg>

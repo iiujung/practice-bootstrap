@@ -1,0 +1,15 @@
+<svg id="logo-dk" xmlns="http://www.w3.org/2000/svg" width="116" height="51" viewBox="0 0 116 51">
+  <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(0 30)" fill="none" stroke="#e7d2fe" stroke-width="1">
+    <ellipse cx="58" cy="7.5" rx="58" ry="7.5" stroke="none"/>
+    <ellipse cx="58" cy="7.5" rx="57.5" ry="7" fill="none"/>
+  </g>
+  <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(0 33)" fill="none" stroke="rgba(231,210,254,0.8)" stroke-width="1">
+    <ellipse cx="58" cy="7.5" rx="58" ry="7.5" stroke="none"/>
+    <ellipse cx="58" cy="7.5" rx="57.5" ry="7" fill="none"/>
+  </g>
+  <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(0 36)" fill="none" stroke="rgba(231,210,254,0.6)" stroke-width="1">
+    <ellipse cx="58" cy="7.5" rx="58" ry="7.5" stroke="none"/>
+    <ellipse cx="58" cy="7.5" rx="57.5" ry="7" fill="none"/>
+  </g>
+  <text id="qborn" transform="translate(14 41)" fill="#fff" font-size="45" font-family="FranklinGothic-Medium, Franklin Gothic" font-weight="500"><tspan x="0" y="0">qb</tspan><tspan y="0" font-size="32">orn</tspan></text>
+</svg>
